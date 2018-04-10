@@ -1,0 +1,9 @@
+D:\C#\portfolio_project\bin\Debug\netcoreapp1.1\portfolio_project.deps.json
+D:\C#\portfolio_project\bin\Debug\netcoreapp1.1\portfolio_project.runtimeconfig.json
+D:\C#\portfolio_project\bin\Debug\netcoreapp1.1\portfolio_project.runtimeconfig.dev.json
+D:\C#\portfolio_project\bin\Debug\netcoreapp1.1\portfolio_project.dll
+D:\C#\portfolio_project\bin\Debug\netcoreapp1.1\portfolio_project.pdb
+D:\C#\portfolio_project\obj\Debug\netcoreapp1.1\portfolio_project.csproj.CoreCompileInputs.cache
+D:\C#\portfolio_project\obj\Debug\netcoreapp1.1\portfolio_project.AssemblyInfo.cs
+D:\C#\portfolio_project\obj\Debug\netcoreapp1.1\portfolio_project.dll
+D:\C#\portfolio_project\obj\Debug\netcoreapp1.1\portfolio_project.pdb

@@ -1,0 +1,9 @@
+D:\C#\dojoSurvey_project\bin\Debug\netcoreapp1.1\dojoSurvey_project.deps.json
+D:\C#\dojoSurvey_project\bin\Debug\netcoreapp1.1\dojoSurvey_project.runtimeconfig.json
+D:\C#\dojoSurvey_project\bin\Debug\netcoreapp1.1\dojoSurvey_project.runtimeconfig.dev.json
+D:\C#\dojoSurvey_project\bin\Debug\netcoreapp1.1\dojoSurvey_project.dll
+D:\C#\dojoSurvey_project\bin\Debug\netcoreapp1.1\dojoSurvey_project.pdb
+D:\C#\dojoSurvey_project\obj\Debug\netcoreapp1.1\dojoSurvey_project.csproj.CoreCompileInputs.cache
+D:\C#\dojoSurvey_project\obj\Debug\netcoreapp1.1\dojoSurvey_project.AssemblyInfo.cs
+D:\C#\dojoSurvey_project\obj\Debug\netcoreapp1.1\dojoSurvey_project.dll
+D:\C#\dojoSurvey_project\obj\Debug\netcoreapp1.1\dojoSurvey_project.pdb

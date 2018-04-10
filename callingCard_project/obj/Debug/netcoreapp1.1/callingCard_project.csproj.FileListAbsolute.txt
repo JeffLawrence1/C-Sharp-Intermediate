@@ -1,0 +1,9 @@
+D:\C#\callingCard_project\bin\Debug\netcoreapp1.1\callingCard_project.deps.json
+D:\C#\callingCard_project\bin\Debug\netcoreapp1.1\callingCard_project.runtimeconfig.json
+D:\C#\callingCard_project\bin\Debug\netcoreapp1.1\callingCard_project.runtimeconfig.dev.json
+D:\C#\callingCard_project\bin\Debug\netcoreapp1.1\callingCard_project.dll
+D:\C#\callingCard_project\bin\Debug\netcoreapp1.1\callingCard_project.pdb
+D:\C#\callingCard_project\obj\Debug\netcoreapp1.1\callingCard_project.csproj.CoreCompileInputs.cache
+D:\C#\callingCard_project\obj\Debug\netcoreapp1.1\callingCard_project.AssemblyInfo.cs
+D:\C#\callingCard_project\obj\Debug\netcoreapp1.1\callingCard_project.dll
+D:\C#\callingCard_project\obj\Debug\netcoreapp1.1\callingCard_project.pdb

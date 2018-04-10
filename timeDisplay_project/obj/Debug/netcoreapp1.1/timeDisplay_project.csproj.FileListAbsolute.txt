@@ -1,0 +1,9 @@
+D:\C#\timeDisplay_project\bin\Debug\netcoreapp1.1\timeDisplay_project.deps.json
+D:\C#\timeDisplay_project\bin\Debug\netcoreapp1.1\timeDisplay_project.runtimeconfig.json
+D:\C#\timeDisplay_project\bin\Debug\netcoreapp1.1\timeDisplay_project.runtimeconfig.dev.json
+D:\C#\timeDisplay_project\bin\Debug\netcoreapp1.1\timeDisplay_project.dll
+D:\C#\timeDisplay_project\bin\Debug\netcoreapp1.1\timeDisplay_project.pdb
+D:\C#\timeDisplay_project\obj\Debug\netcoreapp1.1\timeDisplay_project.csproj.CoreCompileInputs.cache
+D:\C#\timeDisplay_project\obj\Debug\netcoreapp1.1\timeDisplay_project.AssemblyInfo.cs
+D:\C#\timeDisplay_project\obj\Debug\netcoreapp1.1\timeDisplay_project.dll
+D:\C#\timeDisplay_project\obj\Debug\netcoreapp1.1\timeDisplay_project.pdb

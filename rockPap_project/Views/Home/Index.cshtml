@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Games Played: @ViewBag.gamesPlayed</h1>
+    <h1>Games Won: @ViewBag.gamesWon</h1>
+    <h1>Games Tied: @ViewBag.gamesTied</h1>
+
+    <form action="/process" method="post">
+        <input type="hidden" name="activity" value="Rock">
+        <input type="submit" value="Rock">
+    </form>
+    <form action="/process" method="post">
+        <input type="hidden" name="activity" value="Paper">
+        <input type="submit" value="Paper">
+    </form>
+    <form action="/process" method="post">
+        <input type="hidden" name="activity" value="Scissors">
+        <input type="submit" value="Scissors">
+    </form>
+    <div style="border: 2px solid black; width: 300px; height: 200px;">
+        <h2>@ViewBag.Message</h2>
+    </div>
+
+
+</body>
+</html>

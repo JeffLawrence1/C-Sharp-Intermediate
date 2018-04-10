@@ -1,0 +1,9 @@
+D:\C#\rockPap_project\bin\Debug\netcoreapp1.1\rockPap_project.deps.json
+D:\C#\rockPap_project\bin\Debug\netcoreapp1.1\rockPap_project.runtimeconfig.json
+D:\C#\rockPap_project\bin\Debug\netcoreapp1.1\rockPap_project.runtimeconfig.dev.json
+D:\C#\rockPap_project\bin\Debug\netcoreapp1.1\rockPap_project.dll
+D:\C#\rockPap_project\bin\Debug\netcoreapp1.1\rockPap_project.pdb
+D:\C#\rockPap_project\obj\Debug\netcoreapp1.1\rockPap_project.csproj.CoreCompileInputs.cache
+D:\C#\rockPap_project\obj\Debug\netcoreapp1.1\rockPap_project.AssemblyInfo.cs
+D:\C#\rockPap_project\obj\Debug\netcoreapp1.1\rockPap_project.dll
+D:\C#\rockPap_project\obj\Debug\netcoreapp1.1\rockPap_project.pdb

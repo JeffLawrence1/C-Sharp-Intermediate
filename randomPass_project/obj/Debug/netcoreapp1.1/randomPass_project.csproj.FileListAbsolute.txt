@@ -1,0 +1,9 @@
+D:\C#\randomPass_project\bin\Debug\netcoreapp1.1\randomPass_project.deps.json
+D:\C#\randomPass_project\bin\Debug\netcoreapp1.1\randomPass_project.runtimeconfig.json
+D:\C#\randomPass_project\bin\Debug\netcoreapp1.1\randomPass_project.runtimeconfig.dev.json
+D:\C#\randomPass_project\bin\Debug\netcoreapp1.1\randomPass_project.dll
+D:\C#\randomPass_project\bin\Debug\netcoreapp1.1\randomPass_project.pdb
+D:\C#\randomPass_project\obj\Debug\netcoreapp1.1\randomPass_project.csproj.CoreCompileInputs.cache
+D:\C#\randomPass_project\obj\Debug\netcoreapp1.1\randomPass_project.AssemblyInfo.cs
+D:\C#\randomPass_project\obj\Debug\netcoreapp1.1\randomPass_project.dll
+D:\C#\randomPass_project\obj\Debug\netcoreapp1.1\randomPass_project.pdb

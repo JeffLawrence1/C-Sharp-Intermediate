@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Fullness: @ViewBag.pDachi.Fullness  Happiness: @ViewBag.pDachi.Happiness  Meals: @ViewBag.pDachi.Meals  Energy: @ViewBag.pDachi.Energy</h1>
+    <div style="border: 2px solid black; width: 700px; height: 550px;">
+        
+        @{
+            if(ViewBag.Status == "start"){
+                <img src="/img/new.jpg" alt="HTML5 Icon" style="width:500px;height:400px; margin-left: 100px; margin-top: 20px;">
+            }
+            else if(ViewBag.Status == "mid"){
+                <img src="/img/train.jpg" alt="HTML5 Icon" style="width:500px;height:400px; margin-left: 100px; margin-top: 20px;">
+            }
+            else if(ViewBag.Status == "high"){
+                <img src="/img/big.jpg" alt="HTML5 Icon" style="width:500px;height:400px; margin-left: 100px; margin-top: 20px;">
+            }
+            else if (ViewBag.Status == null){
+                <img src="/img/new.jpg" alt="HTML5 Icon" style="width:500px;height:400px; margin-left: 100px; margin-top: 20px;">
+            }
+        }
+        <h2 style="text-align: center;">@ViewBag.Message</h2>
+        <h3 style="text-align: center;">That made your Dachi: @ViewBag.React</h3>
+    </div>
+    <br>
+    <div style="margin-left: 200px;">
+        <form action="/process" method="post" style="display: inline-block;">
+            <input type="hidden" name="activity" value="Feed">
+            <input type="submit" value="Feed">
+        </form>
+        <form action="/process" method="post" style="display: inline-block;">
+            <input type="hidden" name="activity" value="Play">
+            <input type="submit" value="Play">
+        </form>
+        <form action="/process" method="post" style="display: inline-block;">
+            <input type="hidden" name="activity" value="Work">
+            <input type="submit" value="Work">
+        </form>
+        <form action="/process" method="post" style="display: inline-block;">
+            <input type="hidden" name="activity" value="Sleep">
+            <input type="submit" value="Sleep">
+        </form>
+    </div>
+</body>
+</html>

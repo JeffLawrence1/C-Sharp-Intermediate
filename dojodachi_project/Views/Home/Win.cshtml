@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+        <h1>Fullness: @ViewBag.pDachi.Fullness  Happiness: @ViewBag.pDachi.Happiness  Meals: @ViewBag.pDachi.Meals  Energy: @ViewBag.pDachi.Energy</h1>
+    <div style="border: 2px solid black; width: 700px; height: 500px;">
+        <img src="/img/win.jpg" alt="HTML5 Icon" style="width:500px;height:400px; margin-left: 100px; margin-top: 20px;">
+        <h2 style="margin-left: 150px;">@ViewBag.Message</h2>
+    </div>
+    <br>
+    <div style="margin-left: 200px;">
+        <form action="/restart" method="post" style="display: inline-block;">
+            <input type="hidden" name="activity" value="Restart">
+            <input type="submit" value="Restart?">
+        </form>
+    </div>
+</body>
+</html>
